@@ -1,0 +1,6 @@
+Unit of Time: seconds
+Length of Time: 10
+Number of Time Blocks: 3
+Name of Temp File: temp_file
+Database Folder Name: Database
+Number of Data Points For Prediction: 2
